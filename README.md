@@ -1,2 +1,8 @@
 # list_of_things_to_learn
-An idea list of things to learn and practice during the next 6 months
+List of things to learn and practice during the next 6 months @CNITA
+
++ JS framework (VUE, REACT, ANGULAR)
++ TDD
++ Python (GIS, FLASK, DJANGO)
++ GOlang
++ Shaders
